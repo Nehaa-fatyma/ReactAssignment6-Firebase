@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactAssignment6-Firebase/static/css/main.e1257269.css",
+    "main.js": "/ReactAssignment6-Firebase/static/js/main.7d8cf239.js",
+    "index.html": "/ReactAssignment6-Firebase/index.html",
+    "main.e1257269.css.map": "/ReactAssignment6-Firebase/static/css/main.e1257269.css.map",
+    "main.7d8cf239.js.map": "/ReactAssignment6-Firebase/static/js/main.7d8cf239.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1257269.css",
+    "static/js/main.7d8cf239.js"
+  ]
+}
